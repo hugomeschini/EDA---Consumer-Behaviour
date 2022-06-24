@@ -1,4 +1,4 @@
-# EDA---Consumer-Behaviour
+# Exploratory Data Analysis - Consumer Behaviour
 EDA - Consumer Behavior
 
 The Bridge School - Data Science Bootcamp
